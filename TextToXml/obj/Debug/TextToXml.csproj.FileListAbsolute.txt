@@ -1,0 +1,11 @@
+C:\Telfort\MyTools\TextToXml\TextToXml\bin\Debug\TextToXml.exe
+C:\Telfort\MyTools\TextToXml\TextToXml\bin\Debug\TextToXml.pdb
+C:\Telfort\MyTools\TextToXml\TextToXml\obj\Debug\ResolveAssemblyReference.cache
+C:\Telfort\MyTools\TextToXml\TextToXml\obj\Debug\TextToXml.MainForm.resources
+C:\Telfort\MyTools\TextToXml\TextToXml\obj\Debug\TextToXml.Properties.Resources.resources
+C:\Telfort\MyTools\TextToXml\TextToXml\obj\Debug\TextToXml.csproj.GenerateResource.Cache
+C:\Telfort\MyTools\TextToXml\TextToXml\obj\Debug\TextToXml.exe
+C:\Telfort\MyTools\TextToXml\TextToXml\obj\Debug\TextToXml.pdb
+C:\Telfort\MyTools\TextToXml\TextToXml\obj\Debug\TextToXml.NewActionDlg.resources
+C:\Telfort\MyTools\TextToXml\TextToXml\obj\Debug\TextToXml.NewTransitionDlg.resources
+C:\Telfort\MyTools\TextToXml\TextToXml\obj\Debug\TextToXml.NewTokenTransitionDlg.resources
